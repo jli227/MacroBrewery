@@ -5,7 +5,7 @@
 		<html>
 			<head>
 				<title>MacroBrewery</title>
-				<link rel="style/css" href="style.css"/>
+				<link rel="style/css" href="main.css"/>
 			</head>
 			
 			<body>
