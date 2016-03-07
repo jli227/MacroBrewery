@@ -1,16 +1,20 @@
+
 <html>
+hi
 <body>
-<form action="go.php" method="post">
-Beer Lookup<input type="text" name="beer"><br>
+<form action="connect.php" method="post">
+Beer Lookup<input type="text" name="beer" id="bname"><br>
 <input type="submit">
 </form>
 
-try {
-		$conn = new PDO('')
-		$
-}
-
-Result: 
-
 </body>
 </html>
+
+
+
+	
+
+ 
+
+
+
