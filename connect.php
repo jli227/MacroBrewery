@@ -4,7 +4,7 @@ function connect() {
 
 			$servername = "IS-HAY04.ischool.uw.edu";
 			$username = "info445";
-			$password = "GoHuskies!";
+			$password = "//"
 			$dbname = "MacroBrewery2";
 
 
